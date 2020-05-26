@@ -1,0 +1,557 @@
+{
+    "exceptions": [
+        {
+            "stacktrace": [
+                {
+                    "frameAddress": 532444723532,
+                    "symbolAddress": 0,
+                    "loadAddress": 532407959552,
+                    "lineNumber": 36763980,
+                    "file": "\/data\/app\/com.gamingforgood.clashofstreamers-jp2ptIZMruXfq1dtoy2f1g==\/lib\/arm64\/libil2cpp.so",
+                    "method": "0x7bf82db94c"
+                },
+                {
+                    "frameAddress": 532444709544,
+                    "symbolAddress": 0,
+                    "loadAddress": 532407959552,
+                    "lineNumber": 36749992,
+                    "file": "\/data\/app\/com.gamingforgood.clashofstreamers-jp2ptIZMruXfq1dtoy2f1g==\/lib\/arm64\/libil2cpp.so",
+                    "method": "0x7bf82d82a8"
+                },
+                {
+                    "frameAddress": 532444708844,
+                    "symbolAddress": 0,
+                    "loadAddress": 532407959552,
+                    "lineNumber": 36749292,
+                    "file": "\/data\/app\/com.gamingforgood.clashofstreamers-jp2ptIZMruXfq1dtoy2f1g==\/lib\/arm64\/libil2cpp.so",
+                    "method": "0x7bf82d7fec"
+                },
+                {
+                    "frameAddress": 532444725280,
+                    "symbolAddress": 0,
+                    "loadAddress": 532407959552,
+                    "lineNumber": 36765728,
+                    "file": "\/data\/app\/com.gamingforgood.clashofstreamers-jp2ptIZMruXfq1dtoy2f1g==\/lib\/arm64\/libil2cpp.so",
+                    "method": "0x7bf82dc020"
+                },
+                {
+                    "frameAddress": 532444716876,
+                    "symbolAddress": 0,
+                    "loadAddress": 532407959552,
+                    "lineNumber": 36757324,
+                    "file": "\/data\/app\/com.gamingforgood.clashofstreamers-jp2ptIZMruXfq1dtoy2f1g==\/lib\/arm64\/libil2cpp.so",
+                    "method": "0x7bf82d9f4c"
+                },
+                {
+                    "frameAddress": 532444726188,
+                    "symbolAddress": 0,
+                    "loadAddress": 532407959552,
+                    "lineNumber": 36766636,
+                    "file": "\/data\/app\/com.gamingforgood.clashofstreamers-jp2ptIZMruXfq1dtoy2f1g==\/lib\/arm64\/libil2cpp.so",
+                    "method": "0x7bf82dc3ac"
+                },
+                {
+                    "frameAddress": 532444488520,
+                    "symbolAddress": 0,
+                    "loadAddress": 532407959552,
+                    "lineNumber": 36528968,
+                    "file": "\/data\/app\/com.gamingforgood.clashofstreamers-jp2ptIZMruXfq1dtoy2f1g==\/lib\/arm64\/libil2cpp.so",
+                    "method": "0x7bf82a2348"
+                },
+                {
+                    "frameAddress": 532457618896,
+                    "symbolAddress": 0,
+                    "loadAddress": 532407959552,
+                    "lineNumber": 49659344,
+                    "file": "\/data\/app\/com.gamingforgood.clashofstreamers-jp2ptIZMruXfq1dtoy2f1g==\/lib\/arm64\/libil2cpp.so",
+                    "method": "0x7bf8f27dd0"
+                },
+                {
+                    "frameAddress": 532442977768,
+                    "symbolAddress": 0,
+                    "loadAddress": 532407959552,
+                    "lineNumber": 35018216,
+                    "file": "\/data\/app\/com.gamingforgood.clashofstreamers-jp2ptIZMruXfq1dtoy2f1g==\/lib\/arm64\/libil2cpp.so",
+                    "method": "0x7bf81315e8"
+                },
+                {
+                    "frameAddress": 532444559876,
+                    "symbolAddress": 0,
+                    "loadAddress": 532407959552,
+                    "lineNumber": 36600324,
+                    "file": "\/data\/app\/com.gamingforgood.clashofstreamers-jp2ptIZMruXfq1dtoy2f1g==\/lib\/arm64\/libil2cpp.so",
+                    "method": "0x7bf82b3a04"
+                },
+                {
+                    "frameAddress": 532444580612,
+                    "symbolAddress": 0,
+                    "loadAddress": 532407959552,
+                    "lineNumber": 36621060,
+                    "file": "\/data\/app\/com.gamingforgood.clashofstreamers-jp2ptIZMruXfq1dtoy2f1g==\/lib\/arm64\/libil2cpp.so",
+                    "method": "0x7bf82b8b04"
+                },
+                {
+                    "frameAddress": 532444421232,
+                    "symbolAddress": 0,
+                    "loadAddress": 532407959552,
+                    "lineNumber": 36461680,
+                    "file": "\/data\/app\/com.gamingforgood.clashofstreamers-jp2ptIZMruXfq1dtoy2f1g==\/lib\/arm64\/libil2cpp.so",
+                    "method": "0x7bf8291c70"
+                },
+                {
+                    "frameAddress": 532493848276,
+                    "symbolAddress": 0,
+                    "loadAddress": 532407959552,
+                    "lineNumber": 85888724,
+                    "file": "\/data\/app\/com.gamingforgood.clashofstreamers-jp2ptIZMruXfq1dtoy2f1g==\/lib\/arm64\/libil2cpp.so",
+                    "method": "0x7bfb1b4ed4"
+                },
+                {
+                    "frameAddress": 532457567500,
+                    "symbolAddress": 0,
+                    "loadAddress": 532407959552,
+                    "lineNumber": 49607948,
+                    "file": "\/data\/app\/com.gamingforgood.clashofstreamers-jp2ptIZMruXfq1dtoy2f1g==\/lib\/arm64\/libil2cpp.so",
+                    "method": "0x7bf8f1b50c"
+                },
+                {
+                    "frameAddress": 532496893540,
+                    "symbolAddress": 0,
+                    "loadAddress": 532407959552,
+                    "lineNumber": 88933988,
+                    "file": "\/data\/app\/com.gamingforgood.clashofstreamers-jp2ptIZMruXfq1dtoy2f1g==\/lib\/arm64\/libil2cpp.so",
+                    "method": "0x7bfb49c664"
+                },
+                {
+                    "frameAddress": 532486914112,
+                    "symbolAddress": 0,
+                    "loadAddress": 532407959552,
+                    "lineNumber": 78954560,
+                    "file": "\/data\/app\/com.gamingforgood.clashofstreamers-jp2ptIZMruXfq1dtoy2f1g==\/lib\/arm64\/libil2cpp.so",
+                    "method": "0x7bfab18040"
+                },
+                {
+                    "frameAddress": 532486914112,
+                    "symbolAddress": 0,
+                    "loadAddress": 532407959552,
+                    "lineNumber": 78954560,
+                    "file": "\/data\/app\/com.gamingforgood.clashofstreamers-jp2ptIZMruXfq1dtoy2f1g==\/lib\/arm64\/libil2cpp.so",
+                    "method": "0x7bfab18040"
+                },
+                {
+                    "frameAddress": 532458271672,
+                    "symbolAddress": 0,
+                    "loadAddress": 532407959552,
+                    "lineNumber": 50312120,
+                    "file": "\/data\/app\/com.gamingforgood.clashofstreamers-jp2ptIZMruXfq1dtoy2f1g==\/lib\/arm64\/libil2cpp.so",
+                    "method": "0x7bf8fc73b8"
+                },
+                {
+                    "frameAddress": 532458271108,
+                    "symbolAddress": 0,
+                    "loadAddress": 532407959552,
+                    "lineNumber": 50311556,
+                    "file": "\/data\/app\/com.gamingforgood.clashofstreamers-jp2ptIZMruXfq1dtoy2f1g==\/lib\/arm64\/libil2cpp.so",
+                    "method": "0x7bf8fc7184"
+                },
+                {
+                    "frameAddress": 532484715632,
+                    "symbolAddress": 0,
+                    "loadAddress": 532407959552,
+                    "lineNumber": 76756080,
+                    "file": "\/data\/app\/com.gamingforgood.clashofstreamers-jp2ptIZMruXfq1dtoy2f1g==\/lib\/arm64\/libil2cpp.so",
+                    "method": "0x7bfa8ff470"
+                },
+                {
+                    "frameAddress": 532465804400,
+                    "symbolAddress": 0,
+                    "loadAddress": 532407959552,
+                    "lineNumber": 57844848,
+                    "file": "\/data\/app\/com.gamingforgood.clashofstreamers-jp2ptIZMruXfq1dtoy2f1g==\/lib\/arm64\/libil2cpp.so",
+                    "method": "0x7bf96f6470"
+                },
+                {
+                    "frameAddress": 532499300344,
+                    "symbolAddress": 0,
+                    "loadAddress": 532407959552,
+                    "lineNumber": 91340792,
+                    "file": "\/data\/app\/com.gamingforgood.clashofstreamers-jp2ptIZMruXfq1dtoy2f1g==\/lib\/arm64\/libil2cpp.so",
+                    "method": "0x7bfb6e7ff8"
+                },
+                {
+                    "frameAddress": 532499300344,
+                    "symbolAddress": 0,
+                    "loadAddress": 532407959552,
+                    "lineNumber": 91340792,
+                    "file": "\/data\/app\/com.gamingforgood.clashofstreamers-jp2ptIZMruXfq1dtoy2f1g==\/lib\/arm64\/libil2cpp.so",
+                    "method": "0x7bfb6e7ff8"
+                },
+                {
+                    "frameAddress": 532466068156,
+                    "symbolAddress": 0,
+                    "loadAddress": 532407959552,
+                    "lineNumber": 58108604,
+                    "file": "\/data\/app\/com.gamingforgood.clashofstreamers-jp2ptIZMruXfq1dtoy2f1g==\/lib\/arm64\/libil2cpp.so",
+                    "method": "0x7bf9736abc"
+                },
+                {
+                    "frameAddress": 532466754780,
+                    "symbolAddress": 0,
+                    "loadAddress": 532407959552,
+                    "lineNumber": 58795228,
+                    "file": "\/data\/app\/com.gamingforgood.clashofstreamers-jp2ptIZMruXfq1dtoy2f1g==\/lib\/arm64\/libil2cpp.so",
+                    "method": "0x7bf97de4dc"
+                },
+                {
+                    "frameAddress": 532466067204,
+                    "symbolAddress": 0,
+                    "loadAddress": 532407959552,
+                    "lineNumber": 58107652,
+                    "file": "\/data\/app\/com.gamingforgood.clashofstreamers-jp2ptIZMruXfq1dtoy2f1g==\/lib\/arm64\/libil2cpp.so",
+                    "method": "0x7bf9736704"
+                },
+                {
+                    "frameAddress": 532442977768,
+                    "symbolAddress": 0,
+                    "loadAddress": 532407959552,
+                    "lineNumber": 35018216,
+                    "file": "\/data\/app\/com.gamingforgood.clashofstreamers-jp2ptIZMruXfq1dtoy2f1g==\/lib\/arm64\/libil2cpp.so",
+                    "method": "0x7bf81315e8"
+                },
+                {
+                    "frameAddress": 532444559876,
+                    "symbolAddress": 0,
+                    "loadAddress": 532407959552,
+                    "lineNumber": 36600324,
+                    "file": "\/data\/app\/com.gamingforgood.clashofstreamers-jp2ptIZMruXfq1dtoy2f1g==\/lib\/arm64\/libil2cpp.so",
+                    "method": "0x7bf82b3a04"
+                },
+                {
+                    "frameAddress": 532899210268,
+                    "symbolAddress": 0,
+                    "loadAddress": 532886396928,
+                    "lineNumber": 12813340,
+                    "file": "\/data\/app\/com.gamingforgood.clashofstreamers-jp2ptIZMruXfq1dtoy2f1g==\/lib\/arm64\/libunity.so",
+                    "method": "0x7c1344a41c"
+                },
+                {
+                    "frameAddress": 532899272632,
+                    "symbolAddress": 0,
+                    "loadAddress": 532886396928,
+                    "lineNumber": 12875704,
+                    "file": "\/data\/app\/com.gamingforgood.clashofstreamers-jp2ptIZMruXfq1dtoy2f1g==\/lib\/arm64\/libunity.so",
+                    "method": "0x7c134597b8"
+                },
+                {
+                    "frameAddress": 532899298584,
+                    "symbolAddress": 0,
+                    "loadAddress": 532886396928,
+                    "lineNumber": 12901656,
+                    "file": "\/data\/app\/com.gamingforgood.clashofstreamers-jp2ptIZMruXfq1dtoy2f1g==\/lib\/arm64\/libunity.so",
+                    "method": "0x7c1345fd18"
+                },
+                {
+                    "frameAddress": 532895394408,
+                    "symbolAddress": 0,
+                    "loadAddress": 532886396928,
+                    "lineNumber": 8997480,
+                    "file": "\/data\/app\/com.gamingforgood.clashofstreamers-jp2ptIZMruXfq1dtoy2f1g==\/lib\/arm64\/libunity.so",
+                    "method": "0x7c130a6a68"
+                },
+                {
+                    "frameAddress": 532895394184,
+                    "symbolAddress": 0,
+                    "loadAddress": 532886396928,
+                    "lineNumber": 8997256,
+                    "file": "\/data\/app\/com.gamingforgood.clashofstreamers-jp2ptIZMruXfq1dtoy2f1g==\/lib\/arm64\/libunity.so",
+                    "method": "0x7c130a6988"
+                },
+                {
+                    "frameAddress": 532897018828,
+                    "symbolAddress": 0,
+                    "loadAddress": 532886396928,
+                    "lineNumber": 10621900,
+                    "file": "\/data\/app\/com.gamingforgood.clashofstreamers-jp2ptIZMruXfq1dtoy2f1g==\/lib\/arm64\/libunity.so",
+                    "method": "0x7c132333cc"
+                },
+                {
+                    "frameAddress": 532896980032,
+                    "symbolAddress": 0,
+                    "loadAddress": 532886396928,
+                    "lineNumber": 10583104,
+                    "file": "\/data\/app\/com.gamingforgood.clashofstreamers-jp2ptIZMruXfq1dtoy2f1g==\/lib\/arm64\/libunity.so",
+                    "method": "0x7c13229c40"
+                },
+                {
+                    "frameAddress": 532896980120,
+                    "symbolAddress": 0,
+                    "loadAddress": 532886396928,
+                    "lineNumber": 10583192,
+                    "file": "\/data\/app\/com.gamingforgood.clashofstreamers-jp2ptIZMruXfq1dtoy2f1g==\/lib\/arm64\/libunity.so",
+                    "method": "0x7c13229c98"
+                },
+                {
+                    "frameAddress": 532896980612,
+                    "symbolAddress": 0,
+                    "loadAddress": 532886396928,
+                    "lineNumber": 10583684,
+                    "file": "\/data\/app\/com.gamingforgood.clashofstreamers-jp2ptIZMruXfq1dtoy2f1g==\/lib\/arm64\/libunity.so",
+                    "method": "0x7c13229e84"
+                },
+                {
+                    "frameAddress": 532899821396,
+                    "symbolAddress": 0,
+                    "loadAddress": 532886396928,
+                    "lineNumber": 13424468,
+                    "file": "\/data\/app\/com.gamingforgood.clashofstreamers-jp2ptIZMruXfq1dtoy2f1g==\/lib\/arm64\/libunity.so",
+                    "method": "0x7c134df754"
+                },
+                {
+                    "frameAddress": 532899882644,
+                    "symbolAddress": 0,
+                    "loadAddress": 532886396928,
+                    "lineNumber": 13485716,
+                    "file": "\/data\/app\/com.gamingforgood.clashofstreamers-jp2ptIZMruXfq1dtoy2f1g==\/lib\/arm64\/libunity.so",
+                    "method": "0x7c134ee694"
+                },
+                {
+                    "frameAddress": 533427472356,
+                    "symbolAddress": 0,
+                    "loadAddress": 533421998080,
+                    "lineNumber": 5474276,
+                    "file": "\/system\/lib64\/libart.so",
+                    "method": "0x7c32c147e4"
+                },
+                {
+                    "frameAddress": 2661567196,
+                    "symbolAddress": 0,
+                    "loadAddress": 0,
+                    "lineNumber": 0,
+                    "method": "0x9ea44adc"
+                }
+            ],
+            "errorClass": "SIGSEGV",
+            "message": "Segmentation violation (invalid memory reference)",
+            "type": "c"
+        }
+    ],
+    "breadcrumbs": [
+        {
+            "name": "Scene Loaded",
+            "timestamp": "2019-06-21T18:56:26Z",
+            "type": "state",
+            "metaData": {
+                "sceneName": "LoadingScene"
+            }
+        },
+        {
+            "name": "Scene Loaded",
+            "timestamp": "2019-06-21T18:56:29Z",
+            "type": "state",
+            "metaData": {
+                "sceneName": "Global"
+            }
+        },
+        {
+            "name": "Log",
+            "timestamp": "2019-06-21T18:56:29Z",
+            "type": "log",
+            "metaData": {
+                "message": "UnityIAP Version: 1.22.0"
+            }
+        },
+        {
+            "name": "Log",
+            "timestamp": "2019-06-21T18:56:33Z",
+            "type": "log",
+            "metaData": {
+                "message": "Using configuration builder objects"
+            }
+        },
+        {
+            "name": "InvalidOperationException",
+            "timestamp": "2019-06-21T18:56:33Z",
+            "type": "error",
+            "metaData": {
+                "context": "Global",
+                "message": "Test error"
+            }
+        },
+        {
+            "name": "Scene Loaded",
+            "timestamp": "2019-06-21T18:56:33Z",
+            "type": "state",
+            "metaData": {
+                "sceneName": "RewardPanel"
+            }
+        },
+        {
+            "name": "Scene Loaded",
+            "timestamp": "2019-06-21T18:56:33Z",
+            "type": "state",
+            "metaData": {
+                "sceneName": "Main"
+            }
+        },
+        {
+            "name": "Scene Loaded",
+            "timestamp": "2019-06-21T18:56:34Z",
+            "type": "state",
+            "metaData": {
+                "sceneName": "PogChamp_Rogue"
+            }
+        },
+        {
+            "name": "Scene Loaded",
+            "timestamp": "2019-06-21T18:56:34Z",
+            "type": "state",
+            "metaData": {
+                "sceneName": "Pet247"
+            }
+        },
+        {
+            "name": "Scene Loaded",
+            "timestamp": "2019-06-21T18:56:34Z",
+            "type": "state",
+            "metaData": {
+                "sceneName": "LoadingSlotMachine"
+            }
+        },
+        {
+            "name": "Log",
+            "timestamp": "2019-06-21T18:56:34Z",
+            "type": "log",
+            "metaData": {
+                "message": "UnityIAP: Promo interface is available for 55 items"
+            }
+        },
+        {
+            "name": "SplashActivity",
+            "timestamp": "2019-06-21T18:56:34Z",
+            "type": "navigation",
+            "metaData": {
+                "ActivityLifecycle": "onStop()"
+            }
+        },
+        {
+            "name": "SplashActivity",
+            "timestamp": "2019-06-21T18:56:34Z",
+            "type": "navigation",
+            "metaData": {
+                "ActivityLifecycle": "onDestroy()"
+            }
+        },
+        {
+            "name": "CONFIGURATION_CHANGED",
+            "timestamp": "2019-06-21T18:56:39Z",
+            "type": "state",
+            "metaData": {
+                "Intent Action": "android.intent.action.CONFIGURATION_CHANGED"
+            }
+        },
+        {
+            "name": "CONFIGURATION_CHANGED",
+            "timestamp": "2019-06-21T18:56:50Z",
+            "type": "state",
+            "metaData": {
+                "Intent Action": "android.intent.action.CONFIGURATION_CHANGED"
+            }
+        },
+        {
+            "name": "UnityException",
+            "timestamp": "2019-06-21T18:57:01Z",
+            "type": "error",
+            "metaData": {
+                "context": "LoadingSlotMachine",
+                "message": "CrashGame() threw this exception for debugging purposes"
+            }
+        },
+        {
+            "name": "UnityException",
+            "timestamp": "2019-06-21T18:57:01Z",
+            "type": "error",
+            "metaData": {
+                "context": "LoadingSlotMachine",
+                "message": "CrashGame() threw this exception for debugging purposes"
+            }
+        }
+    ],
+    "context": "LoadingSlotMachine",
+    "severity": "error",
+    "unhandled": true,
+    "severityReason": {
+        "type": "signal",
+        "attributes": {
+            "signalType": "SIGSEGV"
+        }
+    },
+    "app": {
+        "version": "2.3.6",
+        "id": "com.gamingforgood.clashofstreamers",
+        "type": "android",
+        "releaseStage": "development",
+        "versionCode": 302182213,
+        "binaryArch": "arm64",
+        "duration": 35026,
+        "durationInForeground": 35000,
+        "inForeground": true
+    },
+    "metaData": {
+        "app": {
+            "packageName": "com.gamingforgood.clashofstreamers",
+            "versionName": "2.3.6",
+            "activeScreen": "UnityPlayerActivityExtended",
+            "name": "Clash of Streamers",
+            "lowMemory": false
+        },
+        "device": {
+            "brand": "Xiaomi",
+            "emulator": false,
+            "jailbroken": false,
+            "locale": "en_US",
+            "locationStatus": "allowed",
+            "networkAccess": "wifi",
+            "dpi": 480,
+            "screenDensity": 3,
+            "screenResolution": "2029x1080",
+            "time": "2019-06-21T18:57:01Z"
+        },
+        "Unity": {
+            "unityException": "false",
+            "osLanguage": "English",
+            "platform": "Android",
+            "version": "2.3.6",
+            "companyName": "The Naughty Cult Ltd.",
+            "productName": "Clash of Streamers"
+        }
+    },
+    "device": {
+        "osName": "android",
+        "id": "7518e009-7e5d-4a6d-8cda-6274b18bf608",
+        "osVersion": "9",
+        "manufacturer": "Xiaomi",
+        "model": "POCOPHONE F1",
+        "orientation": "unknown",
+        "runtimeVersions": {
+            "androidApiLevel": 28,
+            "osBuild": "PKQ1.180729.001"
+        },
+        "cpuAbi": [
+            "arm64-v8a",
+            "armeabi-v7a",
+            "armeabi"
+        ],
+        "totalMemory": 536870912
+    },
+    "user": {
+        "id": "7518e009-7e5d-4a6d-8cda-6274b18bf608"
+    },
+    "session": {
+        "startedAt": "1970-01-01T00:00:00Z",
+        "id": "38958729-b746-4420-8f89-13e43e71",
+        "events": {
+            "handled": 0,
+            "unhandled": 1
+        }
+    }
+}

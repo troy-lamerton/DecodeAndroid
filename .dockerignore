@@ -1,0 +1,4 @@
+.git
+node_modules/
+symbols/
+__tests__/dummy_data

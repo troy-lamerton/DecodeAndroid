@@ -1,0 +1,143 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`run jvm payload 1`] = `
+Object {
+  "client_buttons_pressed": Array [],
+  "client_commit": "6cd428aa",
+  "client_logs": Array [],
+  "client_version": "7.0.0+6cd428aa",
+  "crash_contents_md5": "614adfa483f4ef898ff5e96496ce6c0c",
+  "crashreport_description": "#00 [vdso]. in _unknown_file:0
+#01 libc.tgkill in tgkill:4
+#02 libunity. in _unknown_file:0
+#03 libil2cpp. in _unknown_file:0
+#04 libil2cpp. in _unknown_file:0
+#05 libil2cpp. in _unknown_file:0
+#06 libil2cpp. in _unknown_file:0
+#07 libil2cpp. in _unknown_file:0
+#08 libil2cpp. in _unknown_file:0
+#09 libil2cpp. in _unknown_file:0
+#10 libil2cpp. in _unknown_file:0
+#11 libil2cpp. in _unknown_file:0
+#12 libil2cpp. in _unknown_file:0
+#13 libil2cpp. in _unknown_file:0
+#14 libil2cpp. in _unknown_file:0
+#15 libil2cpp. in _unknown_file:0
+#16 libil2cpp. in _unknown_file:0
+#17 libil2cpp. in _unknown_file:0
+#18 libil2cpp. in _unknown_file:0
+#19 libil2cpp. in _unknown_file:0
+#20 libil2cpp. in _unknown_file:0
+#21 libil2cpp. in _unknown_file:0
+#22 libunity. in _unknown_file:0
+#23 libunity. in _unknown_file:0
+#24 libunity. in _unknown_file:0
+#25 libunity. in _unknown_file:0
+#26 libunity. in _unknown_file:0
+#27 libunity. in _unknown_file:0
+#28 libunity. in _unknown_file:0
+#29 libunity. in _unknown_file:0
+#30 libunity. in _unknown_file:0
+#31 base. in _unknown_file:0",
+  "crashreport_id": "0458c555e67a440487759ff2e00aa36e",
+  "crashreport_reason": "",
+  "created_at": "2020-05-18T15:20:50.126542Z",
+  "decoder_debug": "Build: test - Android
+Version: 7.0.0+6cd428aa (commit: 6cd428aa)
+Person: client_KQxztP79rS5cmjeKkTxIfKpU. userId: KQxztP79rS5cmjeKkTxIfKpU",
+  "decoder_error_count": 0,
+  "decoder_errors": undefined,
+  "decoder_name": "V2.4.0 - new crashreporting",
+  "decoder_status": "success",
+  "decoder_version": 20200516,
+  "device_aspectRatio": "18x9",
+  "device_graphicsAPI": "OpenGLES3",
+  "device_graphicsMemory": 1024,
+  "device_graphicsProcessor": "Adreno (TM) 508",
+  "device_graphicsVendor ": "Qualcomm",
+  "device_memory": 3747,
+  "device_model": "motorola moto g(6) plus",
+  "device_os": "Android OS 9 / API-28 (PPWS29.116-20-6/e70a45)",
+  "device_processor": "ARM64 FP ASIMD AES",
+  "device_resolution": "2160x1080",
+  "hostId": "client_4c1e9e25ac660d532cdbe3a494ec7698",
+  "id": "12365414408322c0XI8w",
+  "person_id": "client_KQxztP79rS5cmjeKkTxIfKpU. userId: KQxztP79rS5cmjeKkTxIfKpU",
+  "release_stage": "test",
+  "stat": "client.crashreport.native.android",
+  "timestamp": "2020-05-18T15:20:50.1289Z",
+  "user": "client_KQxztP79rS5cmjeKkTxIfKpU",
+  "version": "7.0.0+6cd428aa",
+}
+`;
+
+exports[`run native payload 1`] = `
+Object {
+  "client_buttons_pressed": Array [],
+  "client_commit": "6cd428aa",
+  "client_logs": Array [],
+  "client_version": "7.0.0+6cd428aa",
+  "crash_contents_md5": "f6ffe8c7d1702f7f4b4d2e89a1ea235d",
+  "crashreport_description": "pid: 12300, tid: 12300, name: Thread  >>> app.app <<<
+#00  6f128 /system/lib64/libc.so
+#01 3c8750 <app-lib>/arm64/libunity.so: Routine void UnityGUID::Transfer<StreamedBinaryWrite>(StreamedBinaryWrite&) at ??:?
+#02 2897e54 <app-lib>/arm64/libil2cpp.so: Routine RuntimeInvoker_TrueVoid_t22962CB4...017_Int32_t585191389E07734F19F3156FF88FB3EF4800D102(void (*)(), MethodInfo const*, void*, void**) at il2cppOutput/Il2CppInvokerTable.cpp:141169
+#03 2b474e0 <app-lib>/arm64/libil2cpp.so: Routine il2cpp::vm::Runtime::Invoke(MethodInfo const*, void*, void**, Il2CppException**) at C:\\\\Program Files\\\\Unity\\\\Hub\\\\Editor\\\\2019.2.8f1\\\\Editor\\\\Data\\\\il2cpp\\\\libil2cpp\\\\vm/Runtime.cpp:597
+#04 2b4c4e8 <app-lib>/arm64/libil2cpp.so: Routine il2cpp::vm::Runtime::InvokeConvertArgs(MethodInfo const*, void*, Il2CppObject**, int, Il2CppException**) at C:\\\\Program Files\\\\Unity\\\\Hub\\\\Editor\\\\2019.2.8f1\\\\Editor\\\\Data\\\\il2cpp\\\\libil2cpp\\\\vm/Runtime.cpp:?
+#05 2b273b0 <app-lib>/arm64/libil2cpp.so: Routine il2cpp::icalls::mscorlib::System::Reflection::MonoMethod::InternalInvoke(Il2CppReflectionMethod*, Il2CppObject*, Il2CppArray*, Il2CppException**) at C:\\\\Program Files\\\\Unity\\\\Hub\\\\Editor\\\\2019.2.8f1\\\\Editor\\\\Data\\\\il2cpp\\\\libil2cpp\\\\icalls\\\\mscorlib\\\\System.Reflection/MonoMethod.cpp:242
+#06 5848c0c <app-lib>/arm64/libil2cpp.so: Routine MonoMethod_InternalInvoke_mB9735487...789 at il2cppOutput/mscorlib11.cpp:29139
+#07 2fc41c0 <app-lib>/arm64/libil2cpp.so: Routine il2cpp_codegen_get_virtual_invoke_data(unsigned int, Il2CppObject const*) at C:\\\\Program Files\\\\Unity\\\\Hub\\\\Editor\\\\2019.2.8f1\\\\Editor\\\\Data\\\\il2cpp\\\\libil2cpp\\\\codegen/il2cpp-codegen-il2cpp.h:305
+#08 5a6efe8 <app-lib>/arm64/libil2cpp.so: Routine UnityAction_Invoke_mC9FF5AA1...71A at il2cppOutput/UnityEngine.CoreModule.cpp:28937
+#09 5a4ebcc <app-lib>/arm64/libil2cpp.so: Routine UnityAction_1_Invoke_m3685D48F...92B_gshared at C:\\\\Program Files\\\\Unity\\\\Hub\\\\Editor\\\\2019.2.8f1\\\\Editor\\\\Data\\\\il2cpp\\\\libil2cpp\\\\vm/ClassInlines.h:?
+#10 37ae3ec <app-lib>/arm64/libil2cpp.so: Routine InputService_ExecuteHandlerSafe_mF9232018...150 at il2cppOutput/Main82.cpp:61234
+#11 37ae200 <app-lib>/arm64/libil2cpp.so: Routine InputService_HandleEvent_m31C7E8D1...5F6 at il2cppOutput/Main82.cpp:60725
+#12 38cf348 <app-lib>/arm64/libil2cpp.so: Routine U3CU3Ec__DisplayClass0_0_U3C_ctorU3Eb__1_m76DF88E2...D14 at il2cppOutput/Main68.cpp:52575
+#13 4b74634 <app-lib>/arm64/libil2cpp.so: Routine Action_1_Invoke_mB86FC1B3...1D5_gshared at C:\\\\Program Files\\\\Unity\\\\Hub\\\\Editor\\\\2019.2.8f1\\\\Editor\\\\Data\\\\il2cpp\\\\libil2cpp\\\\vm/ClassInlines.h:?
+#14 514e354 <app-lib>/arm64/libil2cpp.so: Routine InlineExecuteAllSystem_Execute_m2A89F780...4CA at il2cppOutput/Helper.cpp:29406
+#15 39f64d4 <app-lib>/arm64/libil2cpp.so: Routine il2cpp::utils::LeaveTargetStack::push(int) at C:\\\\Program Files\\\\Unity\\\\Hub\\\\Editor\\\\2019.2.8f1\\\\Editor\\\\Data\\\\il2cpp\\\\libil2cpp\\\\utils/LeaveTargetStack.h:22
+#16 3699b80 <app-lib>/arm64/libil2cpp.so: Routine il2cpp_codegen_get_virtual_invoke_data(unsigned int, Il2CppObject const*) at C:\\\\Program Files\\\\Unity\\\\Hub\\\\Editor\\\\2019.2.8f1\\\\Editor\\\\Data\\\\il2cpp\\\\libil2cpp\\\\codegen/il2cpp-codegen-il2cpp.h:305
+#17 3c617d8 <app-lib>/arm64/libil2cpp.so: Routine ClientController_ControllerUpdate_m86390D47...BED at il2cppOutput/Main26.cpp:56324
+#18 36998d8 <app-lib>/arm64/libil2cpp.so: Routine ControllerBridge_t316E85A0...F02::get_controller_4() const at il2cppOutput/Main37.cpp:34416
+#19 2897c38 <app-lib>/arm64/libil2cpp.so: Routine RuntimeInvoker_TrueVoid_t22962CB4...017(void (*)(), MethodInfo const*, void*, void**) at il2cppOutput/Il2CppInvokerTable.cpp:141106
+#20 2b474e0 <app-lib>/arm64/libil2cpp.so: Routine il2cpp::vm::Runtime::Invoke(MethodInfo const*, void*, void**, Il2CppException**) at C:\\\\Program Files\\\\Unity\\\\Hub\\\\Editor\\\\2019.2.8f1\\\\Editor\\\\Data\\\\il2cpp\\\\libil2cpp\\\\vm/Runtime.cpp:597
+#21 45187c <app-lib>/arm64/libunity.so: Routine void std::__adjust_heap<Experimental::GlobalIllumination::LightDataGI*, long, Experimental::GlobalIllumination::LightDataGI, __gnu_cxx::__ops::_Iter_comp_iter<SortByHashPred<Experimental::GlobalIllumination::LightDataGI, SceneLights::Hasher> > >(Experimental::GlobalIllumination::LightDataGI*, long, long, Experimental::GlobalIllumination::LightDataGI, __gnu_cxx::__ops::_Iter_comp_iter<SortByHashPred<Experimental::GlobalIllumination::LightDataGI, SceneLights::Hasher> >) at ??:?
+#22 441cd8 <app-lib>/arm64/libunity.so: Routine GfxDeviceWorker::RunCommand(ThreadedStreamBuffer&) at ??:?
+#23 43c6d4 <app-lib>/arm64/libunity.so: Routine std::_Rb_tree<GfxRasterState, std::pair<GfxRasterState const, ClientDeviceRasterState>, std::_Select1st<std::pair<GfxRasterState const, ClientDeviceRasterState> >, MemoryCompLess<GfxRasterState>, std::allocator<std::pair<GfxRasterState const, ClientDeviceRasterState> > >::_M_get_insert_unique_pos(GfxRasterState const&) at ??:?
+#24 56f010 <app-lib>/arm64/libunity.so: Routine CachingManager::GetDefaultCache() at ??:?
+#25 4cfd4c <app-lib>/arm64/libunity.so: Routine void std::__introsort_loop<int*, long, __gnu_cxx::__ops::_Iter_comp_iter<IndexSorter> >(int*, int*, long, __gnu_cxx::__ops::_Iter_comp_iter<IndexSorter>) at ??:?
+#26 4cfd80 <app-lib>/arm64/libunity.so: Routine void std::__final_insertion_sort<int*, __gnu_cxx::__ops::_Iter_comp_iter<IndexSorter> >(int*, int*, __gnu_cxx::__ops::_Iter_comp_iter<IndexSorter>) at ??:?
+#27 4cff54 <app-lib>/arm64/libunity.so: Routine void std::__adjust_heap<int*, long, int, __gnu_cxx::__ops::_Iter_comp_iter<IndexSorter> >(int*, long, long, int, __gnu_cxx::__ops::_Iter_comp_iter<IndexSorter>) at ??:?
+#28 3e0ad4 <app-lib>/arm64/libunity.so: Routine void audio::mixer::GroupConstant::Transfer<SafeBinaryRead>(SafeBinaryRead&) at ??:?
+#29 3da8f4 <app-lib>/arm64/libunity.so: Routine AudioSource::UpdateLocalChannels(dynamic_array<SoundChannel, 0ul>&) at ??:?
+#30  648f0 /data/app/com.gamingforgood.clashofstreamers-5mNSCmwAJ51ek4Mdbjy-zw==/oat/arm64/base.odex",
+  "crashreport_id": "4e2be758209d4ab8954f7c06ff2481c5",
+  "crashreport_reason": "",
+  "created_at": "2020-05-18T15:35:50.756736Z",
+  "decoder_debug": "Build: test - Android
+Version: 7.0.0+6cd428aa (commit: 6cd428aa)
+Person: client_KQxztP79rS5cmjeKkTxIfKpU. userId: KQxztP79rS5cmjeKkTxIfKpU",
+  "decoder_error_count": 0,
+  "decoder_errors": undefined,
+  "decoder_name": "V2.4.0 - new crashreporting",
+  "decoder_status": "success",
+  "decoder_version": 20200516,
+  "device_aspectRatio": "18x9",
+  "device_graphicsAPI": "OpenGLES3",
+  "device_graphicsMemory": 1024,
+  "device_graphicsProcessor": "Adreno (TM) 508",
+  "device_graphicsVendor ": "Qualcomm",
+  "device_memory": 3747,
+  "device_model": "motorola moto g(6) plus",
+  "device_os": "Android OS 9 / API-28 (PPWS29.116-20-6/e70a45)",
+  "device_processor": "ARM64 FP ASIMD AES",
+  "device_resolution": "2160x1080",
+  "hostId": "client_4c1e9e25ac660d532cdbe3a494ec7698",
+  "id": "12374420708422V1Xnc6",
+  "person_id": "client_KQxztP79rS5cmjeKkTxIfKpU. userId: KQxztP79rS5cmjeKkTxIfKpU",
+  "release_stage": "test",
+  "stat": "client.crashreport.native.android",
+  "timestamp": "2020-05-18T15:35:50.75891Z",
+  "user": "client_KQxztP79rS5cmjeKkTxIfKpU",
+  "version": "7.0.0+6cd428aa",
+}
+`;

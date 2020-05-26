@@ -1,0 +1,5 @@
+# Download the test symbols from
+# https://s3.console.aws.amazon.com/s3/buckets/gitlab-test-symbols/symbols/android/f39fefb7-01d9-4509-8f76-4a99957dcf24/ARM64/?region=us-east-2
+*.so
+*.so.debug
+*.gz
