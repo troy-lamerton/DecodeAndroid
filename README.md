@@ -1,6 +1,10 @@
 # DecodeAndroid
 
-- I accept backtraces in the IdleGame json format that contains a bugsnag report.
+Symbolicates backtraces using symbols in an S3 bucket.
+
+![](docs/splash.png)
+
+- I accept backtraces in the proprietary IdleGame json format that contains a bugsnag report.
 - I decode the backtrace using symbol files from s3.
 
 ## Development
